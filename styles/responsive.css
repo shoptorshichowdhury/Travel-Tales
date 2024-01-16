@@ -316,6 +316,10 @@
     width: 80%;
     flex-direction: column;
 }
+.testimonial-content{
+    width: 80%;
+    margin: 0 auto;
+}
 .talk{
     width: 100%;
 }
