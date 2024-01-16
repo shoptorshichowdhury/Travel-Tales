@@ -92,6 +92,17 @@ nav {
     font-weight: 700;
 }
 
+#toggler, label{
+    display: none;
+}
+
+
+
+
+
+
+
+
 /* banner section start  */
 .banner {
     margin-bottom: 100px;

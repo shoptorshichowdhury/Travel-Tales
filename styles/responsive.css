@@ -13,10 +13,21 @@
 
     .nav-option {
         width: 100%;
+        max-height: 0;
         flex-direction: column;
         align-items: center;
-
+        overflow: hidden;
     }
+
+    label{
+        display: inline-flex;
+    }
+    #toggler:checked~.nav-option{
+        max-height: 100%;
+    }
+
+
+
 
     /* banner section styles  */
 
