@@ -226,9 +226,6 @@
 }
 
 
-
-
-
 /* view section  */
 .view{
     margin-bottom: 24px;
@@ -253,6 +250,7 @@
     width: 100%;
 }
 /* newslater section  */
+
 .newslater{
     margin-bottom: 24px;
 }
@@ -309,10 +307,32 @@
     font-size: 20px;
 }
 
+/* testimonial section  */
+.testimonial{
+    margin-bottom: 24px;
+}
+
+.testimonial-container{
+    width: 80%;
+    flex-direction: column;
+}
+.talk{
+    width: 100%;
+}
+.talk h4{
+    font-size: 16px;
+}
+.talk p{
+    font-size: 14px;
+}
+
+
 /* footer section  */
 .footer-container{
     padding: 10px 20px;
 }
 .footer-title h2 {
     font-size: 20px;
+}
+
 }
