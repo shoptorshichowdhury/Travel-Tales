@@ -587,10 +587,6 @@ h2 {
     text-align: left;
 }
 
-.form-container h2,
-p {
-    margin-bottom: 10px;
-}
 
 .form-container {
     width: 35%;
@@ -712,7 +708,7 @@ p {
 }
 .talk h4{
     margin-bottom: 20px;
-    
+
 }
 .talk p{
     text-align: center;
