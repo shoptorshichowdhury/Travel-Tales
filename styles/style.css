@@ -42,8 +42,13 @@ body {
     font-weight: 800;
     border: none;
     padding: 14px 30px;
+    transition: 1s all;
 }
-
+.btn-primary:hover{
+    color: #FF5400;
+    background-color: #FFF;
+    border: 1px solid #FF5400;
+}
 
 
 /* navbar starts */
@@ -177,7 +182,14 @@ h2 {
     font-size: 16px;
     font-weight: 700;
     border: none;
+    transition: 1s all;
 }
+.btn-banner:hover{
+    border: 1px solid #FFF;
+}
+
+
+
 
 /* popular section start  */
 
