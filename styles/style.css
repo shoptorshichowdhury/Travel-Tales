@@ -97,12 +97,6 @@ nav {
 }
 
 
-
-
-
-
-
-
 /* banner section start  */
 .banner {
     margin-bottom: 100px;
@@ -699,6 +693,12 @@ p {
 }
 .talk{
     width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 3px solid orange;
+    border-radius: 10px;
+    padding: 10px;
 }
 .talk .man{
     width: 50%;
@@ -712,6 +712,10 @@ p {
 }
 .talk h4{
     margin-bottom: 20px;
+    
+}
+.talk p{
+    text-align: center;
 }
 
 
